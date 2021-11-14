@@ -157,7 +157,7 @@ var VeloSlider = (function() {
     scrollThreshold: 7,
     currentSlide: 1,
     animating: false,
-    animationDuration: 2000
+    animationDuration: 700
   };
 
 
